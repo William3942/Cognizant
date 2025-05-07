@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/Array/Part1.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/Array/Part2.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/Array/Part3.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/Array/Part4.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/Array/StudentGradesManagementSystem.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/introduccion2Java/DragonCave.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Entity.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Land.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Human.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Goblin.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/GameWorld.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/HumansVsGoblinsGame.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Item.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Treasure.java</file>
         </group>
     </open-files>
 </project-private>
