@@ -3,14 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Entity.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Land.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Human.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Goblin.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/GameWorld.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/HumansVsGoblinsGame.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Item.java</file>
-            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/HvG/Treasure.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/LibraryCatalogManagementSystem/Book.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/LibraryCatalogManagementSystem/LibraryCatalog.java</file>
+            <file>file:/C:/Users/Guillermo/Documents/NetBeansProjects/Cognizant/src/LibraryCatalogManagementSystem/LibraryManager.java</file>
         </group>
     </open-files>
 </project-private>
